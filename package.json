@@ -1,5 +1,5 @@
 {
-  "name": "psytrack-api",
+  "name": "moodvault-api",
   "scripts": {
     "start": "vercel dev",
     "deploy": "vercel"
